@@ -1,5 +1,4 @@
 //dijskstra algorithm 
-
 function dijkstra(graph,startNode){
 
     let dist={},visited={},prev={},nodes=[],n;
